@@ -1,0 +1,21 @@
+input,#cat{
+    height: 40px;
+    width: 50%;
+    border:none;
+    border-radius: 10px;
+}
+input:focus{
+    outline: none;
+    background-color: #F0F0F0;
+}
+#cat:focus{
+    outline: none;
+    background-color: #F0F0F0;
+}
+#sub{
+    height: 40px;
+    width: 30%;
+    font-weight: bold;
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+}
