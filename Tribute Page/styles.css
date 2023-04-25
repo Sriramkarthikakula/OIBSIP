@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.hovered{
+    border-radius: 15px;
+    background-color: #ECF2FF;
+    color: black;
+    font-weight: bold;
+}
+.top{
+    text-decoration: none;
+    color:black;
+}
+.subhead{
+    font-family: 'Dongle', sans-serif;
+    font-size:23px;
+    margin-bottom:0;
+}
+.dethead{
+    font-family: 'Aboreto', cursive;
+    font-weight:bold;
+}
+.det{
+    font-family: 'Changa', sans-serif;
+}
+.detbox{
+    padding: 10px 20px 0 20px;
+}
